@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ntak1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ntak1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Naomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntak1&show_icons=true&theme=radical)
 
 
 <!--
